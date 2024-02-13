@@ -1,30 +1,24 @@
-[
-  {
-    "title": "u/FffDtark's Theme",
-    "link": "https://github.com/Ikrom27/Firefox",
-    "description": "Oneline theme",
-    "image": "assets/img/themes/My_Firefox_theme_-_uFffDtark.webp",
-    "tags": [ "dark", "Ikrom27", "centre", "one-line" ]
-  },
-  {
-    "title": "Sweet_Pop!",
-    "link": "https://github.com/PROxZIMA/Sweet-Pop",
-    "description": "Sweet_Pop! Minimalist oneliner theme for Firefox perfectly matching Sweet Dark.",
-    "image": "assets/img/themes/sweetpop.webp",
-    "tags": [ "dark", "light", "modern", "blue", "auto-hide", "floating bar", "PROxZIMA" ]
-  },
-  {
-    "title": "FirefoxCSS-Plus",
-    "link": "https://github.com/c2oc/FirefoxCSS-Plus",
-    "description": "FirefoxCSS+ is based on h4wwk3ye release (https://github.com/h4wwk3ye/firefoxCSS), MaterialFox (https://github.com/muckSponge/MaterialFox) and FlyingFox (https://github.com/akshat46/FlyingFox).",
-    "image": "assets/img/themes/firefoxcssplus.webp",
-    "tags": [ "dark", "archived", "c2oc" ]
-  },
-  {
-    "title": "minimalFOX",
-    "link": "https://github.com/marmmaz/FirefoxCSS",
-    "description": "A compact & minimal Firefox theme built for macOS.",
-    "image": "assets/img/themes/minimalfox.webp",
-    "tags": [ "dark", "macos", "marmazz", "auto-hide", "floating bar", "compact" ]
-  }
-]
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Firefox CSS Store Themes",
+  "home_page_url": "https://firefoxcss-store.github.io/",
+  "feed_url": "https://firefoxcss-store.github.io/feed.json",
+  "description": "Collection of themes for Firefox from Firefox CSS Store",
+  "items": [
+    {
+      "title": "u/FffDtark's Theme",
+      "url": "https://github.com/Ikrom27/Firefox",
+      "content_html": "<p>Oneline theme</p>",
+      "image": "assets/img/themes/My_Firefox_theme_-_uFffDtark.webp",
+      "tags": ["dark", "Ikrom27", "centre", "one-line"]
+    },
+    {
+      "title": "Sweet_Pop!",
+      "url": "https://github.com/PROxZIMA/Sweet-Pop",
+      "content_html": "<p>Sweet_Pop! Minimalist oneliner theme for Firefox perfectly matching Sweet Dark.</p>",
+      "image": "assets/img/themes/sweetpop.webp",
+      "tags": ["dark", "light", "modern", "blue", "auto-hide", "floating bar", "PROxZIMA"]
+    },
+    // Add more items here...
+  ]
+}
